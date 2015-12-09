@@ -1,0 +1,28 @@
+name: Utility Ecommerce
+favicon: null
+layout_spectrum: 0.16154884244315326
+typography_spectrum: 0.9624160493258387
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.02305639418773353
+  lightness: 0.5711852780077606
+  saturation: 0.21970986644737422
+  rhythmicContrast: 0.665098711848259
+purpose: []

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[utility Ecommerce]]></title>
         <description><![CDATA[utility Ecommerce]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/utility-ecommerce/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 19:37:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 20:42:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/utility-ecommerce/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Global Ecommerce & Internet Giants]]></title>
+            <description><![CDATA[<article><h1>Global Ecommerce & Internet Giants</h1><p>Foreign markets begin to offer online brands and business the chance to chase profits overseas, as growth in both internet usage and ecommerce wealth of nations continues to increase dramatically. Markets that were once unattractive to popular brands are developing rapidly both on and offline, making them easier to enter and trade successfully in a relatively short space of time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3cf246de19f96c3c1fd1f3f21302a113/noop.jpg?input=http%3A%2F%2Fwww.infographicszone.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fglobal-ecommerce.jpg"></article>]]></description>
+            <link>http://www.infographicszone.com/ecommerce-2/global-ecommerce-internet-giants#</link>
+            <guid isPermaLink="false">6c91b80b-c772-4aeb-9e35-875c76ed507d</guid>
+            <pubDate>Mon, 18 Jul 2016 20:42:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/utility-ecommerce/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">a5679430-ec31-4627-a5c8-bb0cf7dfd755</guid>
             <pubDate>Mon, 18 Jul 2016 19:37:10 GMT</pubDate>
         </item>
